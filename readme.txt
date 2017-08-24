@@ -1,14 +1,14 @@
-MSTAR_train_lmdb: Trainning Dataset ÑµÁ·¼¯
+MSTAR_train_lmdb: Trainning Dataset è®­ç»ƒé›† -- data available on mit/ll website
 
-MSTAR_val_lmdb: Validation Dataset ÑéÖ¤¼¯
+MSTAR_val_lmdb: Validation Dataset éªŒè¯é›† -- data available on mit/ll website
 
 
-MSTAR_conv_train_test.prototxt: Model Configuration Ä£ĞÍÅäÖÃ
+MSTAR_conv_train_test.prototxt: Model Configuration æ¨¡å‹é…ç½®
 
-MSTAR_conv_solver.prototxt: Solver Configration ÑµÁ·²ßÂÔ
+MSTAR_conv_solver.prototxt: Solver Configration è®­ç»ƒç­–ç•¥
 
-MSTAR_conv_solver_lr1.prototxt: Trainning Configuration ÑµÁ·²ßÂÔ
+MSTAR_conv_solver_lr1.prototxt: Trainning Configuration è®­ç»ƒç­–ç•¥
 
-Note: Path to the above three files need to be modified accordingly, ÒÔÉÏÈı¸öÎÄ¼şÂ·¾¶ÃûĞè¸ü¸Ä
+Note: Path to the above three files need to be modified accordingly, ä»¥ä¸Šä¸‰ä¸ªæ–‡ä»¶è·¯å¾„åéœ€æ›´æ”¹
 
-MSTAR_conv_iter_27000.caffemodel: Our result model after 27000 iterations, Accuracy 99.1%, µü´ú27000´Î½á¹û ÕıÈ·ÂÊ99.1
+MSTAR_conv_iter_27000.caffemodel: Our result model after 27000 iterations, Accuracy 99.1%, è¿­ä»£27000æ¬¡ç»“æœ æ­£ç¡®ç‡99.1
