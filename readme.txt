@@ -1,6 +1,6 @@
-MSTAR_train_lmdb: Trainning Dataset 训练集 -- data available on mit/ll website
+MSTAR_train_lmdb: Trainning Dataset 训练集 -- data available on mit/ll website https://www.sdms.afrl.af.mil/datasets/mstar/
 
-MSTAR_val_lmdb: Validation Dataset 验证集 -- data available on mit/ll website
+MSTAR_val_lmdb: Validation Dataset 验证集 -- data available on mit/ll website https://www.sdms.afrl.af.mil/datasets/mstar/
 
 
 MSTAR_conv_train_test.prototxt: Model Configuration 模型配置
